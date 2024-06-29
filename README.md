@@ -1,6 +1,9 @@
 # So_long
 A very simple 2D game - part of 42 school common core cursus
 
+![img](SL_screenshot.png?raw=true)
+
+
 ## Goal
   - Touch all the planets to terraform them and escape the system.
   - Exit is only accessible once all the planets have been touched.
@@ -9,6 +12,7 @@ A very simple 2D game - part of 42 school common core cursus
 
 ## Features
   - Real time gameplay
+  - Semi procedural background (map size dependent)
   - Diagonal movements
   - Respawning ennemies
   - HPs on HUD
