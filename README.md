@@ -1,6 +1,8 @@
 # So_long
 A very simple 2D game - part of 42 school common core cursus
 
+This was my first (very moderately) big project in C, and while the code is not the most elegant I don't regret the sleepless nights spent assembling it with sticks and duct tape.
+
 ![img](SL_screenshot.png?raw=true)
 
 
@@ -14,7 +16,7 @@ A very simple 2D game - part of 42 school common core cursus
   - Real time gameplay
   - Semi procedural background (map size dependent)
   - Diagonal movements
-  - Respawning ennemies
+  - Killable and Respawning ennemies
   - HPs on HUD
   - BIG LASER GOES BZZZZZZZT (no sound though)
 
